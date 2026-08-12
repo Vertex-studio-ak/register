@@ -1,0 +1,11 @@
+  {
+    "description": "Syntropic ID — identity & SSO service",
+    "repo": "https://github.com/Vertex-studio-ak/syntropic-id",
+    "owner": {
+      "username": "JDH-github",
+      "email": "danilchum1@gmail.com"
+    },
+    "record": {
+      "CNAME": "syntropic.duckdns.org"
+    }
+  }
